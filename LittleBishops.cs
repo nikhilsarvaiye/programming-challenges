@@ -28,7 +28,7 @@
  * 5599888
  * 260
  */
-namespace EYC.Solutions.Anticipate.Planning.Tools.Debug
+namespace BishopProblem
 {
 	using System;
 	using System.Collections.Generic;
