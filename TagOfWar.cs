@@ -44,7 +44,7 @@ namespace TagOfWar
 
 		// private static readonly List<int> Numbers = new List<int>() { -1, -3, -5, -6, 4, 11, 17, 23, 27, 19, 4 };
 
-		public static void FindAllUniquePositions()
+		public static void Run()
 		{
 			var subSetElementCount = Numbers.Count % 2 == 0 ? (Numbers.Count / 2) : ((Numbers.Count - 1) / 2);
 
